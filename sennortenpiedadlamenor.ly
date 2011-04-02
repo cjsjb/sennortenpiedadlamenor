@@ -13,6 +13,7 @@
 	#(define line-width (* 7 in))
 	print-first-page-number = ##t
 	ragged-bottom = ##t
+	first-page-number = 1
 }
 global = {
 	\time 4/4
