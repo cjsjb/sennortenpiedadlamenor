@@ -14,7 +14,7 @@
 		R1  |
 
 		%% sennor, ten piedad...
-		r2 r4 r8 e  |
+		r2. r8 e 8  |
 		e 4 e 8 e e 4 e 8 a  |
 		g 2 f 4 r8 d  |
 		d 4. r8 g 4 f  |
