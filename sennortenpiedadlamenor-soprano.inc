@@ -39,7 +39,7 @@
 		%% sennor, ten piedad...
 		e' 4 e' 8 e' e' 4 e' 8 a'  |
 		g' 2 f' 4 r8 e'  |
-		e' 4. r8 b' 4 gis'  |
+		e' 4. r8 c'' 4 gis'  |
 		a' 1  |
 		R1  |
 		\bar "|."
