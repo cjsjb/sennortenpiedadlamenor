@@ -26,15 +26,15 @@
 		e 2. r4  |
 
 		%% cristo, ten piedad...
-		e 8 e e e e 4 c 8 e  |
-		d 2 b, 4. r8  |
-		c 4. c 8 a, 4 c  |
-		b, 2. r4  |
+		e' 8 e' e' e' e' 4 c' 8 e'  |
+		d' 2 b 4. r8  |
+		c' 4. c' 8 a 4 c'  |
+		b 2. r4  |
 
-		e 8 e e e e 4 c 8 e  |
-		d 2 b, 4. r8  |
-		c 4. c 8 a, 4 c  |
-		b, 2. r8 e  |
+		e' 8 e' e' e' e' 4 c' 8 e'  |
+		d' 2 b 4. r8  |
+		c' 4. c' 8 a 4 c'  |
+		b 2. r8 e'  |
 
 		%% sennor, ten piedad...
 		e 4 e 8 e e 4 e 8 a  |
