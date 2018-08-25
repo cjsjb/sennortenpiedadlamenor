@@ -4,7 +4,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Señor, ten piedad"
-	subtitle = "(La menor)"
+	subtitle = "La menor"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
