@@ -17,7 +17,7 @@ global = {
 	\time 4/4
 }
 globalTempo = {
-	\tempo 4 = 80
+	\tempo 4 = 78
 }
 \score {
 	<<
